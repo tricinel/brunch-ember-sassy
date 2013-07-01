@@ -18,7 +18,7 @@
     "javascript-brunch": ">= 1.0 < 1.5",
     "coffee-script-brunch": ">= 1.0 < 1.5",
     "css-brunch": ">= 1.0 < 1.5",
-    "sass-brunch": "git+ssh://git@github.com:brunch/sass-brunch.git",
+    "sass-brunch": "git://github.com/brunch/sass-brunch.git",
     "uglify-js-brunch": ">= 1.0 < 1.5",
     "clean-css-brunch": ">= 1.0 < 1.5",
     "ember-handlebars-brunch": "git://github.com/icholy/ember-handlebars-brunch.git"

@@ -1,5 +1,5 @@
-## Brunch with Ember, CoffeeScript and Twitter Bootstrap (Compass)
-Inspired from [ember-brunch](https://github.com/icholy/ember-brunch) by [icholy](https://github.com/icholy).
+## Sassy Brunch with Ember and CoffeeSoup
+Inspired from [ember-brunch](https://github.com/icholy/ember-brunch) by [icholy](https://github.com/icholy). Substitutes Javascript with CoffeeScript and adds Twitter Bootstrap on Compass.
 
 ## Use it with Brunch
 To use this with [Brunch.io](http://brunch.io), you'll need brunch installed. It's dead-easy to do that:
