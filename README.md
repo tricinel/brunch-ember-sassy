@@ -1,3 +1,5 @@
+# NO LONGER MAINTAINED
+
 ## Sassy Brunch with Ember and CoffeeSoup
 Inspired from [ember-brunch](https://github.com/icholy/ember-brunch) by [icholy](https://github.com/icholy). Substitutes Javascript with CoffeeScript and adds Twitter Bootstrap on Compass.
 
